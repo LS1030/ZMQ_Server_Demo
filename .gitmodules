@@ -1,0 +1,3 @@
+[submodule "3rd_party/cppzmq"]
+	path = 3rd_party/cppzmq
+	url = https://github.com/zeromq/cppzmq.git
